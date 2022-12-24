@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat Dec 24 16:15:32 2022
+# Process ID: 67536
+# Current directory: C:/Users/enric/MAKARENALABS/Xilinx/test_adc_ext/ADS1256/ADS1256.runs/synth_1
+# Command line: vivado.exe -log design_1_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_wrapper.tcl
+# Log file: C:/Users/enric/MAKARENALABS/Xilinx/test_adc_ext/ADS1256/ADS1256.runs/synth_1/design_1_wrapper.vds
+# Journal file: C:/Users/enric/MAKARENALABS/Xilinx/test_adc_ext/ADS1256/ADS1256.runs/synth_1\vivado.jou
+# Running On: DESKTOP-0EJK665, OS: Windows, CPU Frequency: 2208 MHz, CPU Physical cores: 8, Host memory: 34123 MB
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace
